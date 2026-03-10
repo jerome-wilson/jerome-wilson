@@ -1,11 +1,6 @@
-## TL;DR: I build backend systems
+## TL;DR: I build
 
-backend developer working with distributed systems, APIs and cloud-native tools.
-
-currently working on
-
-▸ backend development and API services  
-▸ learning and experimenting with **Go, Kubernetes and distributed systems**
+working with APIs and cloud-native tools.
 
 interested in
 
