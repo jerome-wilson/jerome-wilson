@@ -1,12 +1,6 @@
 ## TL;DR: I build
 
-working with APIs and cloud-native tools.
-
-interested in
-
-▸ **cloud-native architecture**  
-▸ **backend engineering**  
-▸ **system design and infrastructure**
+I work primarily on backend services and contribute to open-source projects in the cloud-native ecosystem, exploring tools such as Go, Kubernetes, and modern infrastructure systems.
 
 ---
 
