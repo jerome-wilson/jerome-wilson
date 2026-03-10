@@ -1,6 +1,6 @@
 ## TL;DR: I build
 
-´I work primarily on backend services and contribute to open-source projects in the cloud-native ecosystem, exploring tools such as Go, Kubernetes, and modern infrastructure systems.´
+I work primarily on backend services and contribute to open-source projects in the cloud-native ecosystem, exploring tools such as Go, Kubernetes, and modern infrastructure systems.
 
 ---
 
