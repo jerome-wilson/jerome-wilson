@@ -33,5 +33,4 @@ contributing to
 
 ---
 
-📫 reach me at  
-**jeromexy133@gmail.com**
+📫 reach me at  **jeromexy133@gmail.com**
