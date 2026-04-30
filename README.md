@@ -22,7 +22,8 @@ contributing to
 
 ▸ **[kubetail-org/kubetail](https://github.com/kubetail-org/kubetail)**  
 ▸ **[@Yandex-Practicum](https://github.com/Yandex-Practicum)**
-
+▸ **[Tracer-Cloud](https://github.com/Tracer-Cloud)**
+▸ **[@GitGraph](https://github.com/gitgraph-app))**
 ---
 
 ## Currently Exploring
