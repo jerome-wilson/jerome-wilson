@@ -27,12 +27,4 @@ Contributing to:
 
 ---
 
-## Currently Exploring
-
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![GitOps](https://img.shields.io/badge/gitops-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 📫 Reach me at **jeromexy133@gmail.com**
