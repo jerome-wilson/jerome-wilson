@@ -27,4 +27,4 @@ Contributing to:
 
 ---
 
-📫 Reach me at **jeromexy133@gmail.com**
+Reach me at **jeromexy133@gmail.com**
