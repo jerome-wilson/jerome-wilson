@@ -18,12 +18,13 @@ I work primarily on backend services at SAP and contribute to open-source projec
 
 ## Open Source
 
-contributing to
+Contributing to:
 
-▸ **[kubetail-org](https://github.com/kubetail-org/kubetail)**  
-▸ **[@Yandex-Practicum](https://github.com/Yandex-Practicum)**
-▸ **[Tracer-Cloud](https://github.com/Tracer-Cloud)**
-▸ **[@GitGraph](https://github.com/gitgraph-app))**
+- [kubetail-org](https://github.com/kubetail-org/kubetail)  
+- [Yandex-Practicum](https://github.com/Yandex-Practicum)  
+- [Tracer-Cloud](https://github.com/Tracer-Cloud)  
+- [GitGraph](https://github.com/gitgraph-app)
+
 ---
 
 ## Currently Exploring
@@ -34,4 +35,4 @@ contributing to
 
 ---
 
-📫 reach me at  **jeromexy133@gmail.com**
+📫 Reach me at **jeromexy133@gmail.com**
