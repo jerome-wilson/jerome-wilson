@@ -16,9 +16,7 @@ I work primarily on backend services at SAP and contribute to open-source projec
 
 ---
 
-## Open Source
-
-Contributing to:
+## Open Source Contributions:
 
 - [kubetail-org](https://github.com/kubetail-org/kubetail)  
 - [Yandex-Practicum](https://github.com/Yandex-Practicum)  
