@@ -1,6 +1,6 @@
 ## おい
 
-I work primarily on backend services at SAP and contribute to open-source projects in the cloud-native ecosystem, exploring tools such as Go, Kubernetes, and Linux.
+I work primarily on backend services at SAP and contribute to open-source projects in the cloud-native ecosystem, exploring tools such as Java, Go, Kubernetes, and Linux.
 
 ---
 
